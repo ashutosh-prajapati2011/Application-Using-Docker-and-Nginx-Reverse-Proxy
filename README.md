@@ -73,7 +73,7 @@ sudo docker-compose.yml
 
 # 10. Access Your Application
  ```bash
-    htt://<EC2-Public-IP>
+    http://<EC2-Public-IP>
   ```
  ![WEB-app_Image](./images/Web-page.png)
    
